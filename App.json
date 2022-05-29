@@ -514,6 +514,86 @@
             "localizedDescription": "[破解应用]无需付费开通VIP，即可享受VIP皮肤，无损音乐试听及下载。如无法缓冲可能是由于版权原因，请理性对待，谢谢",
             "tintColor": "018084",
             "size": 50291182
+        },
+        {
+            "name": "极速签",
+            "version": "2.7.0",
+            "versionDate": "2022-4-5",
+            "versionDescription": "优化后缀.rename的包导入，优化签名界面",
+            "downloadURL": "https://erjihui.lanzoui.com/iavvl02mnp2f",
+            "iconURL": "https://signtool.cn/DiaoYong/Image/Logo.png",
+            "tintColor": "018084",
+            "size": 9751756.8
+        },
+        {
+            "name": "Mix",
+            "version": "5.1.14",
+            "versionDate": "2021-10-27",
+            "versionDescription": "解锁会员订阅，无需登录",
+            "downloadURL": "https://erjihui.lanzoui.com/iXpLyvu05yf",
+            "iconURL": "https://ji-su.oss-cn-beijing.aliyuncs.com/IMG_5305.PNG?OSSAccessKeyId=TMP.3KgpLst4YqbzhWsLmZUxphro6AWYVZqzH7emQd3WfAWERrtLmhtmtfSusFJsxTeUE9CYRyiZ9EaszJZkNj5xE9tkvDWGVT&Expires=1635314913&Signature=bwaQdSPueBEEQwu73nTzghfmWWs%3D",
+            "tintColor": "018084",
+            "size": 186101268.48
+        },
+        {
+            "name": "抖音",
+            "version": "18.3.0",
+            "versionDate": "2021-11-05",
+            "versionDescription": "无水印保存，自动播放，纯净模式",
+            "downloadURL": "https://erjihui.lanzoui.com/ibcpIw65ilc",
+            "iconURL": "http://tva1.sinaimg.cn/thumbnail/008b2Bz4gy1gio5624aisj3050050t8n.jpg",
+            "tintColor": "018084",
+            "size": 142721679.36
+        },
+        {
+            "name": "酷我音乐",
+            "version": "9.8.0",
+            "versionDate": "2021-10-06",
+            "versionDescription": "解锁付费歌曲下载和会员权限，需登录账户",
+            "downloadURL": "https://erjihui.lanzoui.com/iQrvyuzzw7e",
+            "iconURL": "https://i.loli.net/2021/10/06/FUSyesAOmpjQVZX.png",
+            "tintColor": "018084",
+            "size": 164280401.92
+        },
+        {
+            "name": "悟饭趣玩",
+            "version": "1.0",
+            "versionDate": "2021-10-04",
+            "versionDescription": "内置会员账户，需登录账户",
+            "downloadURL": "https://erjihui.lanzoui.com/ixWlsuwakre",
+            "iconURL": "https://i.loli.net/2021/10/04/pWj9S5MF3rLgxvG.png",
+            "tintColor": "018084",
+            "size": 21390950.4
+        },
+        {
+            "name": "彩云天气",
+            "version": "6.1.16",
+            "versionDate": "2021-10-05",
+            "versionDescription": "需登录账户即是SVIP，优化广告",
+            "downloadURL": "https://erjihui.lanzoui.com/idmOouxm39c",
+            "iconURL": "https://i.loli.net/2021/10/05/65GkfRlsZHBMAJd.png",
+            "tintColor": "018084",
+            "size": 47909437.44
+        },
+        {
+            "name": "埋堆堆",
+            "version": "4.0.73",
+            "versionDate": "2021-10-04",
+            "versionDescription": "已内置会员账户，优化启动广告",
+            "downloadURL": "https://erjihui.lanzoui.com/iUjUbuw4ghe",
+            "iconURL": "https://ae01.alicdn.com/kf/U9cab7ef406e54a999d24627925cefbefc.jpg",
+            "tintColor": "018084",
+            "size": 87136665.6
+        },
+        {
+            "name": "知音漫客",
+            "version": "4.0.3",
+            "versionDate": "2021-10-04",
+            "versionDescription": "解锁会员权限",
+            "downloadURL": "https://erjihui.lanzoui.com/iMh0quw57yd",
+            "iconURL": "https://ae01.alicdn.com/kf/U33cb3d603e48462bad106ec3b0bad3697.jpg",
+            "tintColor": "018084",
+            "size": 34078720
         }
     ]
 }
